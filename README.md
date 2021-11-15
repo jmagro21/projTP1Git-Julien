@@ -1,1 +1,4 @@
-# projTP1Git-Julien
+Bienvenu sur le projet : 
+
+
+projTP1Git-Julien
